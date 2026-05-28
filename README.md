@@ -100,6 +100,11 @@ This dashboard can help financial institutions:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
+---
 
 ## Author
 
