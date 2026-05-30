@@ -23,7 +23,7 @@ This project was developed to:
 ## Dataset Information
 
 - Source: Kaggle Loan Default Dataset
-- Records Analyzed: 25,000+
+- Records Analyzed: 30,000+
 - Features Included:
   - Income
   - Loan Amount
