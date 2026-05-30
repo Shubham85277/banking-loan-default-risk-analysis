@@ -91,7 +91,7 @@ This dashboard can help financial institutions:
 
 ---
 
-## Quantified Outcomes
+## Outcomes
 
 - Analyzed 25K+ borrower records
 - Segmented customers into multiple risk categories
